@@ -8,9 +8,8 @@ Software Engineer, Tech Enthusiast.!!
 
 - Currently working on Fullstack development
 - Currently learning everything 🧗‍♀️
-- Life goes on off roads.🚙
-<br>
-  
+- Life goes on off roads. 🚙
+
 ## Connect with me:
 
 <p align = "center">
