@@ -21,15 +21,17 @@ Software Engineer, Tech Enthusiast.!!
 <br/>
 
 <p align="center">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="haffaz's streak" src="http://github-readme-streak-stats.herokuapp.com?user=Haffaz&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
+ 
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="haffaz's streak" src="http://github-readme-streak-stats.herokuapp.com?user=Haffaz&theme=react&date_format=M%20j%5B%2C%20Y%5D"/>
+ <br/><br/>
+ <img title="🔥 Get stats for your profile at git.io/github-readme-stats" alt="haffaz's stats" src="https://github-readme-stats.vercel.app/api?username=Haffaz&count_private=true&show_icons=true&theme=react"/>
   
 </p>
 
 <br/>
 
-![1](https://github-readme-stats.vercel.app/api?username=Haffaz&count_private=true&show_icons=true&theme=radical)
 
-## Languages, Frameworks & Tools:
+## Languages, Frameworks and Technologies:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
