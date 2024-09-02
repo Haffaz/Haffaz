@@ -13,8 +13,7 @@ Software Engineer, Tech Enthusiast.!!
 ## Connect with me:
 
 <p align = "center">
- 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/haffa2z/)
+
 [<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohomed-haffaz/)
 
 </p>
